@@ -1,6 +1,4 @@
-# Koda AI Studio
-
-**Security, compliance, and security analytics. AI, data, and automation.**
+[![Koda AI Studio — Security, compliance, and security analytics. AI, data, and automation.](https://raw.githubusercontent.com/koda-ai-studio/.github/main/assets/koda-banner.svg)](https://koda-studio.dev/)
 
 We build open-source, self-hosted software and provide hands-on consulting and tailored engineering services. Our work helps organizations understand security risk, organize compliance evidence, connect systems, and put AI and data to work.
 

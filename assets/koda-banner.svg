@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Koda AI Studio</title>
+  <desc id="desc">Security, compliance, and security analytics. AI, data, and automation.</desc>
+  <defs>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#315865"/></pattern>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="#090d10"/>
+  <rect x="850" y="28" width="320" height="244" fill="url(#dots)"/>
+  <path d="M48 32H1152" stroke="#315865"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="115" font-size="62" font-weight="700" letter-spacing="-2" fill="#edfaff">Koda <tspan fill="#83e3f5">AI</tspan><tspan fill="#edfaff" font-weight="400"> Studio</tspan></text>
+    <text x="50" y="181" font-size="29" fill="#edfaff">Security · Compliance · Security analytics</text>
+    <text x="50" y="227" font-size="26" fill="#b1c6ce">AI · Data · Automation</text>
+  </g>
+  <g fill="none" stroke="#315865" stroke-width="2">
+    <rect x="956" y="84" width="136" height="136" rx="14" fill="#101a20"/>
+    <rect x="976" y="104" width="96" height="96" rx="7"/>
+    <path d="M985 64V84M1011 64V84M1037 64V84M1063 64V84M985 220V240M1011 220V240M1037 220V240M1063 220V240M936 113H956M936 139H956M936 165H956M936 191H956M1092 113H1112M1092 139H1112M1092 165H1112M1092 191H1112"/>
+    <path d="M1003 124V180M1044 124L1003 152L1044 180" stroke="#83e3f5" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+  <circle cx="1139" cy="76" r="4" fill="#83e3f5"/>
+</svg>
