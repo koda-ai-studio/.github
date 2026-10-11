@@ -1,6 +1,6 @@
 [![Koda AI Studio — Security, compliance, and security analytics. AI, data, and automation.](https://raw.githubusercontent.com/koda-ai-studio/.github/main/assets/koda-banner.svg?v=dog-ai)](https://koda-studio.dev/)
 
-We build open-source, self-hosted software and provide hands-on consulting and tailored engineering services. Our work helps organizations understand security risk, organize compliance evidence, connect systems, and put AI and data to work.
+We build and implement open-source, self-hosted software, backed by hands-on consulting and tailored engineering. We help organizations manage security risk and compliance evidence, connect systems, and turn data into useful analytics. Through data pipelines, automation, and agentic workflows, we reduce manual work and give teams time back.
 
 ## Free, open-source software
 
@@ -13,14 +13,15 @@ Run our tools in your own environment, with your infrastructure, identity, and d
 
 Both projects are available under the Apache-2.0 license and are free to use and self-host. You cover your own infrastructure and any third-party service costs. Paid services are optional.
 
-## Consulting and tailored services
+## Consulting, implementation, and tailored engineering
 
 We offer paid engagements across:
 
 - **Security and security analytics:** security data platforms, visibility into cloud and AI environments, and integrations for investigating risk.
 - **Compliance and governance:** evidence collection workflows, control evaluation, and audit preparation.
-- **AI, data, and automation:** data pipelines, reporting, system integrations, and tailored workflows.
-- **Deployment and customization:** self-hosted setup, integration with your existing systems, and engineering tailored to your requirements.
+- **Data and analytics:** data platforms, pipelines, dashboards, and reporting that turn information into useful decisions.
+- **AI and automation:** AI agents, agentic workflows, and system integrations that reduce repetitive work.
+- **Software implementation and customization:** self-hosted deployment, integration with your existing systems, and software tailored to your requirements.
 
 [Explore our services and discuss your project →](https://koda-studio.dev/)
 
