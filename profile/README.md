@@ -24,6 +24,11 @@ We offer paid engagements across:
 
 [Explore our services and discuss your project →](https://koda-studio.dev/)
 
+## Founders
+
+- [Andres Linero](https://www.linkedin.com/in/andres-linero-7bb884332/) — Co-founder
+- [Wagdy Saad](https://www.linkedin.com/in/wagdy-saad) — Co-founder
+
 ## Community and support
 
 For bugs, feature requests, and contributions, use the relevant project's issues and contributing guidance. For consulting or tailored implementation, contact us through our website.
