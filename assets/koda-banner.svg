@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Koda AI Studio</title>
-  <desc id="desc">Security, compliance, and security analytics. AI, data, and automation.</desc>
+  <desc id="desc">AI, data, analytics, and automation. Open-source software, consulting, and implementation. Security, compliance, and agentic workflows.</desc>
   <defs>
     <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#315865"/></pattern>
   </defs>
@@ -8,9 +8,10 @@
   <rect x="850" y="28" width="320" height="244" fill="url(#dots)"/>
   <path d="M48 32H1152" stroke="#315865"/>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="48" y="115" font-size="62" font-weight="700" letter-spacing="-2" fill="#edfaff">Koda <tspan fill="#83e3f5">AI</tspan><tspan fill="#edfaff" font-weight="400"> Studio</tspan></text>
-    <text x="50" y="181" font-size="29" fill="#edfaff">Security · Compliance · Security analytics</text>
-    <text x="50" y="227" font-size="26" fill="#b1c6ce">AI · Data · Automation</text>
+    <text x="48" y="115" font-size="62" font-weight="700" letter-spacing="-2" fill="#edfaff">Koda <tspan fill="#83e3f5">AI</tspan><tspan dx="12" fill="#edfaff" font-weight="400">Studio</tspan></text>
+    <text x="50" y="174" font-size="29" fill="#edfaff">AI · Data · Analytics · Automation</text>
+    <text x="50" y="216" font-size="25" fill="#b1c6ce">Open-source software · Consulting · Implementation</text>
+    <text x="50" y="254" font-size="22" fill="#b1c6ce">Security · Compliance · Agentic workflows</text>
   </g>
   <g fill="none" stroke="#315865" stroke-width="2">
     <rect x="922" y="58" width="200" height="200" rx="14" fill="#000000"/>
