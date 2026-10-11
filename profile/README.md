@@ -1,4 +1,4 @@
-[![Koda AI Studio — AI, data, analytics, and automation. Software, consulting, and implementation.](https://raw.githubusercontent.com/koda-ai-studio/.github/main/assets/koda-banner.svg?v=ai-data-automation-2)](https://koda-studio.dev/)
+[![Koda AI Studio — AI, data, analytics, and automation. Security, compliance, and agentic workflows.](https://raw.githubusercontent.com/koda-ai-studio/.github/main/assets/koda-banner.svg?v=ai-data-automation-3)](https://koda-studio.dev/)
 
 We build and implement open-source, self-hosted software, backed by hands-on consulting and tailored engineering. We help organizations manage security risk and compliance evidence, connect systems, and turn data into useful analytics. Through data pipelines, automation, and agentic workflows, we reduce manual work and give teams time back.
 
