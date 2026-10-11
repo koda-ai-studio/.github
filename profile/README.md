@@ -6,10 +6,10 @@ We build open-source, self-hosted software and provide hands-on consulting and t
 
 Run our tools in your own environment, with your infrastructure, identity, and data under your control.
 
-| Project | What it does | Get started |
-| --- | --- | --- |
-| [agent-bom](https://github.com/koda-ai-studio/agent-bom) | Security scanning and a self-hosted control plane for AI, MCP, and cloud infrastructure. | [Installation and usage](https://github.com/koda-ai-studio/agent-bom#readme) |
-| [grc-lake](https://github.com/koda-ai-studio/grc-lake) | Collect read-only compliance evidence, evaluate controls, and export reviewable audit workpapers. | [Installation and usage](https://github.com/koda-ai-studio/grc-lake#readme) |
+| Project and quickstart | What it does |
+| --- | --- |
+| [agent-bom](https://github.com/koda-ai-studio/agent-bom#readme) | Security scanning and a self-hosted control plane for AI, MCP, and cloud infrastructure. |
+| [grc-lake](https://github.com/koda-ai-studio/grc-lake#readme) | Collect read-only compliance evidence, evaluate controls, and export reviewable audit workpapers. |
 
 Both projects are available under the Apache-2.0 license and are free to use and self-host. You cover your own infrastructure and any third-party service costs. Paid services are optional.
 
