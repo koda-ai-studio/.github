@@ -11,11 +11,11 @@ Run our tools in your own environment, with your infrastructure, identity, and d
 | [agent-bom](https://github.com/koda-ai-studio/agent-bom#readme) | Security scanning and a self-hosted control plane for AI, MCP, and cloud infrastructure. |
 | [grc-lake](https://github.com/koda-ai-studio/grc-lake#readme) | Collect read-only compliance evidence, evaluate controls, and export reviewable audit workpapers. |
 
-Both projects are available under the Apache-2.0 license and are free to use and self-host. You cover your own infrastructure and any third-party service costs. Paid services are optional.
+Both projects are available under the Apache-2.0 license and are free to use and self-host. You cover your own infrastructure and any third-party service costs. Consulting services are optional.
 
 ## Consulting, implementation, and tailored engineering
 
-We offer paid engagements across:
+We offer services across:
 
 - **Security and security analytics:** security data platforms, visibility into cloud and AI environments, and integrations for investigating risk.
 - **Compliance and governance:** evidence collection workflows, control evaluation, and audit preparation.
